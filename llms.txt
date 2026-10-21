@@ -20,8 +20,8 @@
 - Teeth whitening service
 
 ## Guides
-- [dentist pasadena guide to your next dental visit](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/dentist-pasadena/): Searching dentist pasadena? Prepare for your appointment, ask useful questions and discuss everyday dental concerns in Pasadena, California.
 - [dentist in pasadena guide for an overdue checkup](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/dentist-in-pasadena/): Find a dentist in pasadena and get ready for an overdue checkup with practical questions and a simple care checklist in Pasadena, California.
+- [dentist pasadena guide to your next dental visit](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/dentist-pasadena/): Searching dentist pasadena? Prepare for your appointment, ask useful questions and discuss everyday dental concerns in Pasadena, California.
 - [Find a dentist near me in Pasadena](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/dentist-near-me/): Looking for a dentist near me? Plan your visit and compare care options at Pasadena Dental Office and Orthodontics in Pasadena.
 - [emergency dentist pasadena visit preparation guide](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/emergency-dentist-pasadena/): Searching emergency dentist pasadena? Learn what information to have ready when requesting urgent dental care in Pasadena.
 - [Cosmetic dentist Pasadena for Thoughtful Smile Changes](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/cosmetic-dentist-pasadena/): Cosmetic dentist Pasadena: Learn what to ask about veneers, whitening and smile changes at Pasadena Dental Office and Orthodontics in Pasadena.
@@ -31,6 +31,9 @@
 - [Denture care center Pasadena](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/denture-care-center-pasadena/): Denture care center Pasadena: prepare for your visit, discuss fit concerns and explore replacement options in Pasadena.
 - [Emergency dental service Pasadena](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/emergency-dental-service-pasadena/): Emergency dental service Pasadena: learn what to report, what to bring and how to request an urgent dental assessment in Pasadena.
 
+## Newsroom
+- [Pasadena Dental Office and Orthodontics Releases Dental Guide and Companion Media](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/news/2026-10-21-pasadena-dental-office-and-orthodontics-releases-d/): Pasadena Dental Office and Orthodontics released a local dentist guide with a YouTube video, podcast episode and SoundCloud audio. (2026-10-21)
+
 ## Pages
 - [Dentist in Pasadena, California](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/): Keep your family's dental care focused on comfort, everyday function, and healthier smiles in Pasadena. Call +1626-219-7180.
 - [About and Contact Our Pasadena Dental Office](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/about/): About Pasadena Dental Office and Orthodontics, Pasadena.
@@ -38,4 +41,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/pasadena-dental-office-and-orthodontics/news/rss.xml)
 - [Main resource site](https://pasadena-dental-office.localwebsites.chatgpt.site)
